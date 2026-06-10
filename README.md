@@ -1,41 +1,53 @@
 # Hi 👋 I'm On Sidet
 
-Full Stack Developer from Cambodia 🇰🇭
+I'm a Full Stack Software Developer from Cambodia 🇰🇭
 
 ## About Me
 
-- 💻 ASP.NET Core
-- ⚡ Angular
-- 📱 Ionic
-- 🐘 PostgreSQL
-- 🚀 Laravel
-- ☁️ Docker & Nginx
+I specialize in:
+- ASP.NET Core & Laravel backend development
+- Angular & Ionic frontend development
+- PostgreSQL and SQL Server database design
+- Docker, Nginx, and Linux deployment
 
 ## Tech Stack
 
-Backend
+### Backend
 
 - ASP.NET Core
+- C#
 - Laravel
-- EF Core
+- PHP
+- Entity Framework Core
+- RESTful APIs
+- JWT Authentication
 
-Frontend
+### Frontend
 
 - Angular
 - Ionic
 - TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
-Database
+### Database
 
 - PostgreSQL
 - SQL Server
+- MySQL
 
-Tools
+### DevOps & Tools
 
 - Docker
-- Git
-- Linux
+- Docker Compose
 - Nginx
+- Linux
+- Git
+- GitHub Actions
+- Postman
 
 ## Contact
 
