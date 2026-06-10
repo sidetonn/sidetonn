@@ -40,4 +40,4 @@ Tools
 ## Contact
 
 Email:
-sidet.onn4@gmail.com
+sidet.onn@gmail.com
