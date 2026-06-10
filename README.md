@@ -32,6 +32,7 @@ I specialize in:
 - JavaScript
 - HTML5
 - CSS3
+- Antd
 - Tailwind CSS
 - Bootstrap
 
